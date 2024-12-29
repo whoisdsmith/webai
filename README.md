@@ -1,3 +1,5 @@
+![Web-AI Development Banner](banner.jpg)
+
 # Web-AI Development Guide: Building with Gemini, Copilot, and Bolt
 
 This guide outlines a structured approach to developing web applications using a combination of AI-assisted tools: **Google Gemini** (for architectural guidance and problem-solving), **GitHub Copilot** (for code completion and generation), and **Bolt** (for a browser-based development environment).
