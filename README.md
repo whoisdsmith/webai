@@ -4,6 +4,23 @@
 
 This guide outlines a structured approach to developing web applications using a combination of AI-assisted tools: **Google Gemini** (for architectural guidance and problem-solving), **GitHub Copilot** (for code completion and generation), and **Bolt** (for a browser-based development environment).
 
+## Table of Contents
+- [Overview](#overview)
+- [Phases of Development](#phases-of-development)
+- [Phase 1: Project Planning and Documentation](#phase-1-project-planning-and-documentation)
+  - [Step 1: Project Outline](#step-1-project-outline-project-outlinemd---optional-but-recommended)
+  - [Step 2: Functional Requirements Document](#step-2-functional-requirements-document-functional-requirementsmd)
+  - [Step 3: Architectural Notes](#step-3-architectural-notes-architectural-notesmd)
+  - [Step 4: File Structure Map](#step-4-file-structure-map-filenamesmd)
+- [Phase 2: AI Assistant Configuration](#phase-2-ai-assistant-configuration)
+  - [Step 5: Gemini System Prompt](#step-5-gemini-system-prompt-geminigenini_system_promptmd)
+  - [Step 6: Copilot Custom Instructions](#step-6-copilot-custom-instructions-githubcopilot-instructionsmd)
+- [Phase 3: Development and Iteration](#phase-3-development-and-iteration)
+  - [Step 7: Feature-Specific Prompts for Gemini](#step-7-feature-specific-prompts-for-gemini-geminifeature-prompts---optional)
+  - [Step 8: Using Copilot in Your IDE](#step-8-using-copilot-in-your-ide)
+  - [Step 9: Continuous Documentation](#step-9-continuous-documentation)
+- [Conclusion](#conclusion)
+
 ## Overview
 
 This methodology leverages AI's strengths to enhance developer productivity and creativity. Gemini acts as a "Software Architect," providing high-level guidance and solutions, while Copilot serves as a "Code Assistant," offering real-time code suggestions and completions. Bolt provides a streamlined, cloud-based development environment, eliminating the need for complex local setups.
