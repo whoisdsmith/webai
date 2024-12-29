@@ -5,8 +5,8 @@
 This guide outlines a structured approach to developing web applications using a combination of AI-assisted tools: **Google Gemini** (for architectural guidance and problem-solving), **GitHub Copilot** (for code completion and generation), and **Bolt** (for a browser-based development environment).
 
 📖 **Additional Documentation:**
-- [GitHub Copilot Guide](docs/copilot.md) - Detailed instructions for setting up and using GitHub Copilot
-- [Bolt.new Instructions](docs/boltnew.md) - Guidelines and best practices for working with Bolt.new
+- [GitHub Copilot Guide](docs/copilot_instructions.md) - Detailed guide for setting up and using GitHub Copilot custom instructions.
+- [Bolt.new Instructions](docs/bolt_instructions.md) - Guide and best practices for setting up [Bolt.new](https://bolt.new) to work with Gemini and Copilot.
 
 ## 📚 Table of Contents
 - [Additional Documentation](#additional-documentation)
