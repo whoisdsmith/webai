@@ -571,7 +571,9 @@ Ensure that your plan is comprehensive, well-structured, and takes into account 
 
 ## Tips
 
-### bolt.new - Search / X
+### Search / X
+
+> From [@nkgoutham](https://x.com/nkgoutham) Check out the original post [here](https://x.com/nkgoutham/status/1873016301679198502).
 
 In my experience working with [http://bolt.new](https://t.co/Sbl8h5wFfc), successful execution comes through precise problem-solving - knowing exactly what's breaking and where. Being a developer helps here, as it's easier to pinpoint issues and fix them. But if you're a non-developer like me, I've found that setting up Claude as your "software architect" is the key to achieving this precision.
 
