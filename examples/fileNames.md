@@ -1,3 +1,4 @@
+```
 ephemera-codex/
 ├── .github/
 │   └── copilot-instructions.md - Custom instructions to guide GitHub Copilot's code generation, testing, and review suggestions.
@@ -37,3 +38,4 @@ ephemera-codex/
 │       ├── logger.js - Provides logging functionality for debugging and simulating system logs. It might wrap `console.log`, `console.warn`, and `console.error`.
 │       └── timing.js - Contains utility functions related to timing and delays, such as the delay between boot messages.
 └── ...
+```
