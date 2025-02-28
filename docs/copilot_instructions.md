@@ -216,4 +216,4 @@ You can choose whether or not to have custom instructions added to your chat que
 
 1. Select or clear the checkbox for **(Preview) Enable custom instructions to be loaded from.github/copilot-instructions.md files and added to requests**.
 
-______________________________________________________________________
+
